@@ -1,4 +1,4 @@
-const apiKey = 'SALIN_API_KEY_KAMU_DISINI'; // Dapatkan gratis di openweathermap.org
+const apiKey = '5072a37ae1efca1ed7feb60580ec8c03'; // Dapatkan gratis di openweathermap.org
 
 document.getElementById('searchBtn').addEventListener('click', () => {
     const city = document.getElementById('cityInput').value;
